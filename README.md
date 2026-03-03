@@ -26,3 +26,8 @@ pip install -r requirements.txt
 02_preprocessing.ipynb
 03_model_training.ipynb
 ```
+## 🚀 Live Demo
+
+Click below to try the deployed **Student Dropout Prediction App** 👇
+
+👉 **[Open Streamlit App](https://prachigurav1203-student-dropout-project-app-6blznu.streamlit.app/)**
